@@ -12,7 +12,6 @@ while True:
         if i == 1:
             time.sleep(1)
             pyautogui.press('esc')
-            time.sleep(1)
         if i == 2:
             continue
         elif i == 3:
